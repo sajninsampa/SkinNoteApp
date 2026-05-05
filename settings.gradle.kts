@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Skin Care Note"
+rootProject.name = "UserProfileApp"
 include(":app")
  
